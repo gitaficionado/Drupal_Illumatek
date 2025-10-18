@@ -28,11 +28,11 @@ The Illumatek website, for a manufacturer of custom, illuminated motorcycle wind
 
 The site's structure proves proficiency in translating complex business needs into manageable content:
 
-    Custom Content Types: Implementation of specialized types to manage distinct data sets, such as Dealerships (including fields for address, phone, and website), FAQs (Question/Answer fields), and structured Product/Windshield pages (managing materials, standards, and custom artwork details).
+-Custom Content Types: Implementation of specialized types to manage distinct data sets, such as Dealerships (including fields for address, phone, and website), FAQs (Question/Answer fields), and structured Product/Windshield pages (managing materials, standards, and custom artwork details).
 
-    Block Management: Effective use of Drupal's Block system and Layout Builder to arrange dynamic content and static information (like contact details and the "About the Artist" section) into clean, multi-column layouts across different pages.
+-Block Management: Effective use of Drupal's Block system and Layout Builder to arrange dynamic content and static information (like contact details and the "About the Artist" section) into clean, multi-column layouts across different pages.
 
-    Menu Management: Expert configuration of Drupal's menu system for both the primary navigation (Home, Gallery, Dealerships) and secondary footers, ensuring logical user flow.
+-Menu Management: Expert configuration of Drupal's menu system for both the primary navigation (Home, Gallery, Dealerships) and secondary footers, ensuring logical user flow.
 
 2. Data-Driven Functionality and Views
 
