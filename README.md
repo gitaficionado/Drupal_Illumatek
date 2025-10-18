@@ -11,3 +11,4 @@ My work began with discovery and planning, analyzing the client's business (e.g.
 This project validates my capability to translate complex business requirements into a functional, scalable, and aesthetically cohesive Drupal platform.
 
 This screen capture showcases a detailed section of the Illumatek website, featuring content critical to customer trust and product information. It demonstrates my ability to structure and present complex data—like Windshield Standards and "About the Artist"—using Drupal's flexible content architecture and custom theming to create a professional, engaging user experience.
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/fb56458a-1259-44fd-b6f3-bb575ac6e882" />
