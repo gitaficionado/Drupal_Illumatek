@@ -17,3 +17,5 @@ This screen capture showcases a detailed section of the Illumatek website, featu
 This screen capture showcases the Dealerships section of the Illumatek site, which is crucial for their business-to-business network. It demonstrates my expertise in managing large datasets of location-specific information and presenting it clearly using Drupal's custom Views and data architecture.
 
 <img width="500" height="1183" alt="Image" src="https://github.com/user-attachments/assets/d8a844e4-419e-4a27-b903-cc14da403195" />
+
+This screen capture displays the Contact Us page, demonstrating my ability to implement secure and functional Drupal webforms for user communication. It also showcases effective Block management to clearly present essential corporate contact information alongside the input form.
