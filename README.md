@@ -28,28 +28,28 @@ The Illumatek website, for a manufacturer of custom, illuminated motorcycle wind
 
 The site's structure proves proficiency in translating complex business needs into manageable content:
 
--Custom Content Types: Implementation of specialized types to manage distinct data sets, such as Dealerships (including fields for address, phone, and website), FAQs (Question/Answer fields), and structured Product/Windshield pages (managing materials, standards, and custom artwork details).
+- Custom Content Types: Implementation of specialized types to manage distinct data sets, such as Dealerships (including fields for address, phone, and website), FAQs (Question/Answer fields), and structured Product/Windshield pages (managing materials, standards, and custom artwork details).
 
--Block Management: Effective use of Drupal's Block system and Layout Builder to arrange dynamic content and static information (like contact details and the "About the Artist" section) into clean, multi-column layouts across different pages.
+- Block Management: Effective use of Drupal's Block system and Layout Builder to arrange dynamic content and static information (like contact details and the "About the Artist" section) into clean, multi-column layouts across different pages.
 
--Menu Management: Expert configuration of Drupal's menu system for both the primary navigation (Home, Gallery, Dealerships) and secondary footers, ensuring logical user flow.
+- Menu Management: Expert configuration of Drupal's menu system for both the primary navigation (Home, Gallery, Dealerships) and secondary footers, ensuring logical user flow.
 
 2. Data-Driven Functionality and Views
 
 The project highlights the ability to handle and present structured data dynamically:
 
-    Custom Views: Utilizing the powerful Views module to query the Dealership content type and generate the clean, two-column, alphabetized list of contacts. This demonstrates skill in configuring fields, sorting criteria, and applying consistent styling to large datasets.
+- Custom Views: Utilizing the powerful Views module to query the Dealership content type and generate the clean, two-column, alphabetized list of contacts. This demonstrates skill in configuring fields, sorting criteria, and applying consistent styling to large datasets.
 
-    Webform Implementation: Integration of the Webform module (or similar) on the Contact Us page to securely define form fields (Name, Email, Message) and configure backend submission handlers (e.g., immediate email to sales or storage in the database).
+- Webform Implementation: Integration of the Webform module (or similar) on the Contact Us page to securely define form fields (Name, Email, Message) and configure backend submission handlers (e.g., immediate email to sales or storage in the database).
 
 3. Theming and User Experience (UX)
 
 The consistent, professional look confirms strong front-end skills:
 
-    Custom Theming: Use of CSS/SCSS to apply the specific dark, high-contrast aesthetic, ensuring all elements—from the contact form blocks to the navigational structure—are cohesive and follow the brand's identity.
+- Custom Theming: Use of CSS/SCSS to apply the specific dark, high-contrast aesthetic, ensuring all elements—from the contact form blocks to the navigational structure—are cohesive and follow the brand's identity.
 
-    Template Overrides: Skill in modifying Twig templates to customize the rendering of specific elements, such as the footer, information boxes, and list items, beyond the standard Drupal theme output.
+- Template Overrides: Skill in modifying Twig templates to customize the rendering of specific elements, such as the footer, information boxes, and list items, beyond the standard Drupal theme output.
 
-    Responsiveness Foundation: The clear content segmentation implies a design built on a responsive foundation, ensuring optimal viewing across all devices.
+- Responsiveness Foundation: The clear content segmentation implies a design built on a responsive foundation, ensuring optimal viewing across all devices.
 
 In summary, the Illumatek site demonstrates competence in core Drupal systems, including custom data definition, complex views creation, robust form handling, and professional front-end presentation.
