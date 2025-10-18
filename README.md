@@ -1,7 +1,7 @@
 # Drupal_Illumatek
 Full-stack Drupal development from pre-planning to implementation. Built a comprehensive site for Illumatek, an illuminated windshield manufacturer. Implemented custom content types for FAQs &amp; Dealer Listings, managed taxonomy, structured navigation, and integrated quote/contact functionality. 
 
-My work began with discovery and planning, analyzing the client's business (e.g., product customization, dealer network) to define the site structure. This resulted in the successful deployment of key features, including:
+# My work began with discovery and planning, analyzing the client's business (e.g., product customization, dealer network) to define the site structure. This resulted in the successful deployment of key features, including:
     1. Custom Content Types: Structuring product pages (windshields), FAQs, and dynamic Dealer Listings with contact information, addresses, and external website links. This required precise taxonomy and view configuration.
     2. Intuitive Navigation: Implementing a clear, top-level menu system (Home, Gallery, FAQs, Dealerships, Contact Us) ensuring an excellent user experience.'
     3. E-commerce/Quote Integration: Laying the groundwork for functionality like Pricing and Quote generation, a vital step for a custom-product business.
