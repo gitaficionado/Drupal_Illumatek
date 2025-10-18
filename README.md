@@ -19,3 +19,5 @@ This screen capture showcases the Dealerships section of the Illumatek site, whi
 <img width="500" height="1183" alt="Image" src="https://github.com/user-attachments/assets/d8a844e4-419e-4a27-b903-cc14da403195" />
 
 This screen capture displays the Contact Us page, demonstrating my ability to implement secure and functional Drupal webforms for user communication. It also showcases effective Block management to clearly present essential corporate contact information alongside the input form.
+
+<img width="1156" height="1076" alt="Image" src="https://github.com/user-attachments/assets/564a18f6-78ec-4836-94d5-caa7e0edb77c" />
